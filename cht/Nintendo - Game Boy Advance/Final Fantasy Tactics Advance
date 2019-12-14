@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "000037AE+000A+10000488+0007"
+cheat0_enable = false
+
+cheat1_desc = "Quick Level Up"
+cheat1_code = "4200008A+0063+00000014+0108"
+cheat1_enable = false
+
+cheat2_desc = "MAX JP"
+cheat2_code = "42000156+0063+00000014+0108"
+cheat2_enable = false
